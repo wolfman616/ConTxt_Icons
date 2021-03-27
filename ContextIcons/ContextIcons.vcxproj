@@ -272,6 +272,9 @@
   <ItemGroup>
     <Midl Include="ContextIcons.idl" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="C:\Icon\24\easy_access_new_24.bmp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
