@@ -1,0 +1,17 @@
+
+2 - Item type: File folder
+3 - Date modified: 28/02/2021 03:30
+4 - Date created: 19/03/2019 04:52
+5 - Date accessed: 02/03/2021 08:25
+6 - Attributes: D
+9 - Perceived type: Unknown
+11 - Kind: Folder
+19 - Rating: Unrated
+61 - Computer: DESKTOP-ORONLAS (this PC)
+165 - Filename: VSCache
+190 - Folder name: aero
+191 - Folder path: C:\Windows\Resources\Themes\aero
+192 - Folder: aero (C:\Windows\Resources\Themes)
+194 - Path: C:\Windows\Resources\Themes\aero\VSCache
+196 - Type: File folder
+202 - Link status: Unresolved
