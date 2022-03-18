@@ -6,11 +6,10 @@
 #include "ContextIcons_i.h"
 #include "dllmain.h"
 
-
 using namespace ATL;
 
-// Used to determine whether the DLL can be unloaded by OLE.
-STDAPI DllCanUnloadNow(void)
+STDAPI DllCanUnloadNow(void) // Used to determine whether the DLL can be unloaded by OLE.
+
 {
 			return _AtlModule.DllCanUnloadNow();
 	}

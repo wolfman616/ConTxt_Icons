@@ -73,6 +73,7 @@
     <None Include="IconInjector.rgs">
       <Filter>Resource Files</Filter>
     </None>
+    <None Include="cpp.hint" />
   </ItemGroup>
   <ItemGroup>
     <Midl Include="ContextIcons.idl">
@@ -80,7 +81,187 @@
     </Midl>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="C:\Icon\24\easy_access_new_24.bmp">
+    <Image Include="C:\Icon\24\slsk24.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\dwm24.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\new.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\path.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\copy.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\cut.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\delete.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\paste.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\picklink.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\Properties.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\refresh.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\rename.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\sendto.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\shortcut.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\copy.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\gpatsewing.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\shortcut.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\paste.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\PSHTCT2.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\redo.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\PST.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\PST2.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\undo.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\VIEW.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\srtby.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\sndto.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\skull10.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\J00.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\stardavidgopld2.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\star_david_gold.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\path5522h.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\rename_new.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\BITMAP60215_1.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\Goatse_Wing_24.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\YouTube.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\sound24.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\new.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\eye_24.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\AF_Icon.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\info.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\NVIDIA_2.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\DNA.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\whistler_run_2.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\mouse.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\cut 24.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\hal_24.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\Star (5).ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\star_david_gold.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\srt_by.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\sortby.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\UNDO.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\view.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\vuu.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\refresh.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\VIEW_.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\refresh2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\refresh - Copy.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\info.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\ren.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\explorer.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\skull_BMP.bmp">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>

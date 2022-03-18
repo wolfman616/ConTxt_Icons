@@ -1,6 +1,0 @@
-﻿  IconInjector.cpp
-     Creating library S:\Documents\GitHub\ConTxt_Icons\ContextIcons\x64\Release\ContextIcons.lib and object S:\Documents\GitHub\ConTxt_Icons\ContextIcons\x64\Release\ContextIcons.exp
-  ContextIcons.vcxproj -> S:\Documents\GitHub\ConTxt_Icons\ContextIcons\x64\Release\ContextIcons.dll
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(2199,5): warning MSB3073: The command "regsvr32 /s "S:\Documents\GitHub\ConTxt_Icons\ContextIcons\x64\Release\ContextIcons.dll"" exited with code 3.
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(2199,5): warning MSB4181: The "Exec" task returned false but did not log an error.
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(2211,5): error MSB8011: Failed to register output. Please try enabling Per-user Redirection or register the component from a command prompt with elevated permissions.
