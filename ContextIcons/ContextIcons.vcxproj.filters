@@ -264,5 +264,23 @@
     <Image Include="C:\Icon\24\skull_BMP.bmp">
       <Filter>Resource Files</Filter>
     </Image>
+    <Image Include="C:\Icon\24\Gterminal_3_24.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\unndoo3.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\reedoo_2.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\crossed24_6.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\BMP60215.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Icon\24\groupby24.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>

@@ -3,16 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ContextIcons", "ContextIcons.vcxproj", "{A2F4BFB4-CFAE-45DB-9199-612F17746E04}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ContextIcons", "ContextIcons\ContextIcons.vcxproj", "{A2F4BFB4-CFAE-45DB-9199-612F17746E04}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ContextIconsPS", "ContextIcons\ContextIconsPS.vcxproj", "{3C5F0BB2-9AC4-465A-93EB-6CF5FADA6EBF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A2F4BFB4-CFAE-45DB-9199-612F17746E04} = {A2F4BFB4-CFAE-45DB-9199-612F17746E04}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		cunt|x64 = cunt|x64
+		cunt|x86 = cunt|x86
 		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2F4BFB4-CFAE-45DB-9199-612F17746E04}.cunt|x64.ActiveCfg = cunt|x64
+		{A2F4BFB4-CFAE-45DB-9199-612F17746E04}.cunt|x64.Build.0 = cunt|x64
+		{A2F4BFB4-CFAE-45DB-9199-612F17746E04}.cunt|x86.ActiveCfg = cunt|Win32
+		{A2F4BFB4-CFAE-45DB-9199-612F17746E04}.cunt|x86.Build.0 = cunt|Win32
 		{A2F4BFB4-CFAE-45DB-9199-612F17746E04}.Debug|x64.ActiveCfg = Debug|x64
 		{A2F4BFB4-CFAE-45DB-9199-612F17746E04}.Debug|x64.Build.0 = Debug|x64
 		{A2F4BFB4-CFAE-45DB-9199-612F17746E04}.Debug|x86.ActiveCfg = Debug|Win32
@@ -21,11 +32,22 @@ Global
 		{A2F4BFB4-CFAE-45DB-9199-612F17746E04}.Release|x64.Build.0 = Release|x64
 		{A2F4BFB4-CFAE-45DB-9199-612F17746E04}.Release|x86.ActiveCfg = Release|Win32
 		{A2F4BFB4-CFAE-45DB-9199-612F17746E04}.Release|x86.Build.0 = Release|Win32
+		{3C5F0BB2-9AC4-465A-93EB-6CF5FADA6EBF}.cunt|x64.ActiveCfg = cunt|x64
+		{3C5F0BB2-9AC4-465A-93EB-6CF5FADA6EBF}.cunt|x64.Build.0 = cunt|x64
+		{3C5F0BB2-9AC4-465A-93EB-6CF5FADA6EBF}.cunt|x86.ActiveCfg = cunt|Win32
+		{3C5F0BB2-9AC4-465A-93EB-6CF5FADA6EBF}.cunt|x86.Build.0 = cunt|Win32
+		{3C5F0BB2-9AC4-465A-93EB-6CF5FADA6EBF}.Debug|x64.ActiveCfg = Debug|x64
+		{3C5F0BB2-9AC4-465A-93EB-6CF5FADA6EBF}.Debug|x64.Build.0 = Debug|x64
+		{3C5F0BB2-9AC4-465A-93EB-6CF5FADA6EBF}.Debug|x86.ActiveCfg = Debug|Win32
+		{3C5F0BB2-9AC4-465A-93EB-6CF5FADA6EBF}.Release|x64.ActiveCfg = Release|x64
+		{3C5F0BB2-9AC4-465A-93EB-6CF5FADA6EBF}.Release|x64.Build.0 = Release|x64
+		{3C5F0BB2-9AC4-465A-93EB-6CF5FADA6EBF}.Release|x86.ActiveCfg = Release|Win32
+		{3C5F0BB2-9AC4-465A-93EB-6CF5FADA6EBF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E557A7E0-1309-422F-B9F3-3887474C3D75}
+		SolutionGuid = {764809DB-5D59-40D7-AE97-6A80327B14AD}
 	EndGlobalSection
 EndGlobal

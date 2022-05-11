@@ -297,8 +297,10 @@
   <ItemGroup>
     <Image Include="C:\Icon\24\AF_Icon.ico" />
     <Image Include="C:\Icon\24\BITMAP60215_1.ico" />
+    <Image Include="C:\Icon\24\BMP60215.ico" />
     <Image Include="C:\Icon\24\copy.bmp" />
     <Image Include="C:\Icon\24\copy.png" />
+    <Image Include="C:\Icon\24\crossed24_6.ico" />
     <Image Include="C:\Icon\24\cut 24.ico" />
     <Image Include="C:\Icon\24\cut.bmp" />
     <Image Include="C:\Icon\24\delete.bmp" />
@@ -308,6 +310,8 @@
     <Image Include="C:\Icon\24\eye_24.ico" />
     <Image Include="C:\Icon\24\Goatse_Wing_24.ico" />
     <Image Include="C:\Icon\24\gpatsewing.png" />
+    <Image Include="C:\Icon\24\groupby24.ico" />
+    <Image Include="C:\Icon\24\Gterminal_3_24.ico" />
     <Image Include="C:\Icon\24\hal_24.ico" />
     <Image Include="C:\Icon\24\info.bmp" />
     <Image Include="C:\Icon\24\info.ico" />
@@ -326,6 +330,7 @@
     <Image Include="C:\Icon\24\PST.ico" />
     <Image Include="C:\Icon\24\PST2.ico" />
     <Image Include="C:\Icon\24\redo.ico" />
+    <Image Include="C:\Icon\24\reedoo_2.ico" />
     <Image Include="C:\Icon\24\refresh - Copy.bmp" />
     <Image Include="C:\Icon\24\refresh.bmp" />
     <Image Include="C:\Icon\24\refresh.png" />
@@ -350,6 +355,7 @@
     <Image Include="C:\Icon\24\star_david_gold.png" />
     <Image Include="C:\Icon\24\UNDO.bmp" />
     <Image Include="C:\Icon\24\undo.ico" />
+    <Image Include="C:\Icon\24\unndoo3.ico" />
     <Image Include="C:\Icon\24\view.bmp" />
     <Image Include="C:\Icon\24\VIEW.ico" />
     <Image Include="C:\Icon\24\VIEW_.bmp" />
