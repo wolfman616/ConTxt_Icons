@@ -27,6 +27,7 @@ HBITMAP SpuncFunc(HICON hbizzle) {
 		GetIconInfo(hbizzle, &iconinfo2);
 		return (HBITMAP)CopyImage(iconinfo2.hbmColor, IMAGE_BITMAP, 0, 0, LR_DEFAULTSIZE | LR_CREATEDIBSECTION);
 	}
+	return nullptr; // You may want to return an appropriate value or nullptr.
 }
 
 HMODULE   HHi     = GetModuleHandleA("ContextIcons.dll");
@@ -132,7 +133,7 @@ STDMETHODIMP CIconInjector::QueryContextMenu(HMENU hmenu, UINT uMenuIndex, UINT 
 		else if (wcscmp(menuTitle,     L"Rena&me")         == 0)
 			mii.hbmpItem = bmpRen;
 		else if (wcscmp(menuTitle,     L"Se&nd to")        == 0)
-			mii.hbmpItem = bmpSnd3;			//  (HBITMAP)LoadImage(bmpSnd2, MAKEINTRESOURCE(iconinfo.hbmColor), IMAGE_BITMAP, 32, 32, LR_CREATEDIBSECTION | LR_SHARED);
+			mii.hbmpItem = bmpSnd3;		//  (HBITMAP)LoadImage(bmpSnd2, MAKEINTRESOURCE(iconinfo.hbmColor), IMAGE_BITMAP, 32, 32, LR_CREATEDIBSECTION | LR_SHARED);
 		else if (wcscmp(menuTitle,     L"&Delete")         == 0)
 			mii.hbmpItem = HB_Del;
 		else if (wcsstr(menuTitle,     L"ancel")          != NULL)
